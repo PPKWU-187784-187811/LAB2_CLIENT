@@ -15,6 +15,13 @@
         </repository>
     </repositories>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.github.PPKWU-187784-187811</groupId>
+            <artifactId>LAB2_LIB</artifactId>
+            <version>1.0.1</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
